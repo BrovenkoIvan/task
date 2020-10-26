@@ -1,6 +1,3 @@
-# task
-trial task
-
 # Authors_screen
 ![Simulator Screen Shot - iPhone 11 - 2020-10-26 at 20 34 52](https://user-images.githubusercontent.com/39049376/97216193-2405e500-17ce-11eb-8e10-279656a522bc.png)
 
